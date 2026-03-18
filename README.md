@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Md Sameer</h1>
-<h3 align="center">🚀 IT Engineer | Java | DSA | SQL | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | Javascript | React | Node  | Express | MongoDB | Problem Solver</h3>
+
+---
+<h1 align="center">Hi 👋, I'm Md Sameer</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | JavaScript | Problem Solver</h3>
 
 ---
 
 ### 💫 About Me
 
 * 🎓 IT Graduate with **8.69 CGPA**
-* 💻 Strong in **Java, DSA, OOPs**
-* 🌱 Currently learning **Flutter & Data Analytics**
+* 💻 Full Stack Developer specializing in **MERN Stack (MongoDB, Express, React, Node.js)**
+* ⚡ Strong in **JavaScript (ES6+), DSA, OOPs**
+* 🧠 Experienced in building **scalable, production-ready web applications**
 * 🎯 Goal: Crack **top product-based companies**
 
 ---
@@ -16,14 +21,50 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss"/>
 <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
 
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 AI Resume Builder
+
+* Built an AI-powered resume generator using **React + Groq AI**
+* 📄 Generates ATS-optimized resumes with real-time preview
+* ⚡ Used **Redux Toolkit** for state management
+* 📥 Client-side PDF generation using jsPDF
+
+👉 [GitHub Repo](https://github.com/Sameermd25/ai-resume-builder)
+
+---
+
+#### 🔹 AccioConnect (Social Platform)
+
+* Full-stack social app with **JWT authentication & real-time chat**
+* 🔔 Real-time notifications using **Socket.IO**
+* ☁️ Media storage using **AWS S3**
+
+👉 [GitHub Repo](https://github.com/Sameermd25/Accio-Connect)
+
+---
+
+#### 🔹 FlowText (NPM Package)
+
+* Published a **rich text editor package**
+* ✨ Supports mentions, emojis, image uploads
+* ⚙️ Built using **Tiptap + React**
+
+👉 [NPM Package](https://www.npmjs.com/package/smart-editor-acciojob)
 
 ---
 
@@ -56,10 +97,11 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sameer-md-626b83299/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/sameer-md-626b83299/">LinkedIn</a> •
+<a href="https://leetcode.com/u/SameerMd25/">LeetCode</a>
 </p>
 
 ---
